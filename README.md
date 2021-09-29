@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thiagovb62
-- 👀 I’m interested in science of dice
-- 🌱 I’m currently learning backend languaje and somes apis
+- 👀 I’m interested in IA development 
+- 🌱 I’m currently learning backend languaje(nodejs,angular and mongo)
 - 💞️ I’m looking to collaborate on better future with tecnology
 - 📫 How to reach me ,send me any mensage in my email
 
