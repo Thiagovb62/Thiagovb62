@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thiagovb62
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning backend languaje(nodejs,express,javascript..)
+- 🌱 I’m currently learning backend languaje(Nodejs,Express,Javascript..)
 - 💞️ I’m looking to collaborate on better future with tecnology
 - 📫 How to reach me ,send me any mensage in my email
 
