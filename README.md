@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on better future with tecnology
 - 📫 How to reach me ,send me any mensage in my email
 
-## Olá! Eu sou o Matheus Fraga 🖐️
+## Olá! Eu sou o Thiago Viana 🖐️
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiago_vb09)
