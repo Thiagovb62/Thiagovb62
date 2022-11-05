@@ -12,7 +12,7 @@
 <div>
  <a href="https://beacons.ai/Thiagovb62">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagovb62&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagivb62&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagovb62&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&username=Thiagovb62" height="150" alt="languages graph"  />
